@@ -1,0 +1,1 @@
+/home/jetson/SS-Capsized/darknet_shipbot/darknet detector test /home/jetson/SS-Capsized/darknet_shipbot/data/obj.data /home/jetson/SS-Capsized/darknet_shipbot/cfg/yolov3_custom.cfg /home/jetson/SS-Capsized/darknet_shipbot/yolov3_custom_last.weights /home/jetson/SS-Capsized/darknet_shipbot/res.jpeg -dont_show -ext_output
